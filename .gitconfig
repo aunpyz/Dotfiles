@@ -1,0 +1,8 @@
+[include]
+	path = ~/.gitconfig_user
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[rebase]
+	autostash = true
