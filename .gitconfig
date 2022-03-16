@@ -6,3 +6,5 @@
 	prune = true
 [rebase]
 	autostash = true
+[core]
+	editor = nvim
