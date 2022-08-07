@@ -1,0 +1,5 @@
+#!/usr/local/bin/fish
+
+limelight -m config width			3
+limelight -m config active_color 	0xFF40FF00
+limelight -m config normal_color 	0x00FFFFFF
