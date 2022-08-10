@@ -8,5 +8,8 @@ yabai -m config right_padding  			5
 yabai -m config window_gap     			5
 yabai -m config auto_balance			on
 
+# Ignored Apps
+yabai -m rule --add app="^LibreOffice" manage=off
+
 killall limelight &> /dev/null
 limelight --config ~/.limelightrc &> /dev/null &
