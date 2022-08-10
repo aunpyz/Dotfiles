@@ -10,6 +10,7 @@ yabai -m config auto_balance			on
 
 # Ignored Apps
 yabai -m rule --add app="^LibreOffice" manage=off
+yabai -m rule --add app="^Calendar" manage=off
 
 killall limelight &> /dev/null
 limelight --config ~/.limelightrc &> /dev/null &
