@@ -1,16 +1,25 @@
-#!/usr/local/bin/fish
+#!/usr/bin/env fish
 
-yabai -m config layout					bsp
-yabai -m config top_padding    			5
-yabai -m config bottom_padding 			5
-yabai -m config left_padding   			5
-yabai -m config right_padding  			5
-yabai -m config window_gap     			5
-yabai -m config auto_balance			on
+yabai -m signal --add event=dock_did_restart action="sudo yabai --load-sa"
+sudo yabai --load-sa
+
+yabai -m config layout											bsp
+yabai -m config top_padding    							4
+yabai -m config bottom_padding 							4
+yabai -m config left_padding   							4
+yabai -m config right_padding  							4
+yabai -m config window_gap     							4
+yabai -m config auto_balance								on
+yabai -m config focus_follows_mouse					autofocus
+yabai -m config window_opacity							on
+yabai -m config active_window_opacity				1.0
+yabai -m config normal_window_opacity				0.9
 
 # Ignored Apps
 yabai -m rule --add app="^LibreOffice" manage=off
 yabai -m rule --add app="^Calendar" manage=off
+yabai -m rule --add app="^ZbrushCore" manage=off
+yabai -m rule --add app="^Steam" manage=off
 
-killall limelight &> /dev/null
-limelight --config ~/.limelightrc &> /dev/null &
+#killall limelight &> /dev/null
+#limelight --config ~/.limelightrc &> /dev/null &
