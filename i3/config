@@ -207,3 +207,6 @@ bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86ScreenSaver exec i3lock
 
 exec_always feh --bg-fill ~/Pictures/wallpaper.jpg
+
+# Keyboard layout
+exec_always "setxkbmap -layout us,th -option 'grp:win_space_toggle'"
