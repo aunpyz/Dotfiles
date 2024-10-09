@@ -1,5 +1,5 @@
 #!/bin/sh
-./nvim.sh | \\
-./git.sh | \\
-./nvm.sh | \\
+./nvim.sh | \
+./git.sh | \
+./nvm.sh | \
 ./tmux.sh
