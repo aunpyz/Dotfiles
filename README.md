@@ -19,6 +19,7 @@ Copy config from `/i3` and `/rofi` to `~/.config`
 - i3blocks
 - [awesome-terimnal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts)
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state)
+	- [AUR](https://aur.archlinux.org/packages/xkblayout-state-git)
 - (optional) arandr
 
 #### Assign a new application
