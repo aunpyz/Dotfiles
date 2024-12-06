@@ -310,7 +310,7 @@ set $ws5 "5:"
 set $ws6 "6:"
 set $ws7 "7:"
 set $ws8 "8:"
-set $ws9 "9"
+set $ws9 "9:"
 set $ws10 "10:"
 
 # use workspaces on different displays:
@@ -339,6 +339,7 @@ assign [class=Postman] $ws5
 assign [class=Insomnia] $ws5
 assign [class="TelegramDesktop"] $ws6
 assign [class="discord"] $ws6
+assign [class="vesktop"] $ws6
 assign [class="Slack"] $ws6
 assign [class="Org.gnome.Nautilus"] $ws7
 assign [class="Thunar"] $ws7
@@ -347,6 +348,7 @@ assign [class="FileZilla"] $ws7
 assign [class="Virt-manager"] $ws8
 assign [class="org.remmina.Remmina"] $ws8
 assign [class="Termius"] $ws8
+assign [class="steam"] $ws9
 assign [class="thunderbird"] $ws10
 
 # automatic set focus new window if it opens on another workspace than the current:
@@ -363,6 +365,7 @@ for_window [class=Postman] focus
 for_window [class=Insomnia] focus
 for_window [class=TelegramDesktop] focus
 for_window [class=discord] focus
+for_window [class=vesktop] focus
 for_window [class=Slack] focus
 for_window [class=Org.gnome.Nautilus] focus
 for_window [class=Thunar] focus
@@ -371,6 +374,7 @@ for_window [class=FileZilla] focus
 for_window [class="Virt-manager"] focus
 for_window [class="org.remmina.Remmina"] focus
 for_window [class=Termius] focus
+for_window [class=steam] focus
 for_window [class=thunderbird] focus
 
 ##############
