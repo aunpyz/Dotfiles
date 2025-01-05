@@ -349,6 +349,7 @@ assign [class="Virt-manager"] $ws8
 assign [class="org.remmina.Remmina"] $ws8
 assign [class="Termius"] $ws8
 assign [class="steam"] $ws9
+assign [class="heroic"] $ws9
 assign [class="thunderbird"] $ws10
 
 # automatic set focus new window if it opens on another workspace than the current:
@@ -375,6 +376,7 @@ for_window [class="Virt-manager"] focus
 for_window [class="org.remmina.Remmina"] focus
 for_window [class=Termius] focus
 for_window [class=steam] focus
+for_window [class=heroic] focus
 for_window [class=thunderbird] focus
 
 ##############
