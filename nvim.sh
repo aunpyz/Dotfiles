@@ -1,4 +1,4 @@
 #!/bin/sh
 ln -s ./Dotfiles/.vimrc ~/.vimrc
 mkdir -p ~/.config/nvim
-echo "source ~/.vimrc" >> ~/.config/nvim/init.vim
+ln -s ./Dotfiles/init.vim ~/.config/nvim/init.vim
