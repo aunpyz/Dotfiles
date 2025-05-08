@@ -1,0 +1,140 @@
+[0bf12777-1628-4e83-a188-4bcdcaabcff2]
+Description=Settings for heroic
+desktops=72123bc0-2f5f-499d-b083-4d424a2d657d
+desktopsrule=3
+wmclass=heroic
+wmclassmatch=1
+
+[2bad87aa-1f2e-45e3-a3d0-655c123eb452]
+Description=Settings for termius Termius
+desktops=ea312a63-ba30-4a1a-8585-a7cde1ececb7
+desktopsrule=3
+wmclass=termius Termius
+wmclasscomplete=true
+wmclassmatch=1
+
+[399b83a3-0375-4135-ba50-bdebe9964e19]
+Description=Settings for code Code
+desktops=1b752e99-4bca-4431-a8d7-48dd4b4cef82
+desktopsrule=3
+wmclass=code Code
+wmclasscomplete=true
+wmclassmatch=1
+
+[3caab15e-ed84-405c-b9ed-7ae36216c279]
+Description=Settings for sublime_merge sublime_merge
+desktops=3394d6a7-da3f-4f98-b629-926f26e7d064
+desktopsrule=3
+wmclass=sublime_merge sublime_merge
+wmclasscomplete=true
+wmclassmatch=1
+
+[3ecadf93-3486-4349-ae9d-e058f8ac7259]
+Description=Settings for DBeaver
+desktops=81280ede-f673-4063-b106-98f5fa925c7e
+desktopsrule=3
+wmclass=DBeaver
+wmclassmatch=1
+
+[4e6d8d73-2111-4b7a-b5dd-9f5156451c49]
+Description=Settings for steam
+desktops=72123bc0-2f5f-499d-b083-4d424a2d657d
+desktopsrule=3
+wmclass=steam
+wmclassmatch=1
+
+[67af1b56-c8c8-4ae8-b78d-3c44117099f7]
+Description=Settings for firefox firefox
+desktops=3a99999a-c443-4e35-ab44-b629badb529a
+desktopsrule=3
+wmclass=firefox firefox
+wmclasscomplete=true
+wmclassmatch=1
+
+[83ceebac-565c-4e89-a4a6-94c6881a1103]
+Description=Settings for slack Slack
+desktops=3accfe27-67fb-4736-a8a7-7d4380d466e2
+desktopsrule=3
+wmclass=slack Slack
+wmclasscomplete=true
+wmclassmatch=1
+
+[905392ed-ee03-4df6-8e3f-11d6b8375f31]
+Description=Settings for sublime_text sublime_text
+desktops=1b752e99-4bca-4431-a8d7-48dd4b4cef82
+desktopsrule=3
+wmclass=sublime_text sublime_text
+wmclasscomplete=true
+wmclassmatch=1
+
+[9ceb4a02-bab5-44f8-96fd-0265467e1d33]
+Description=Settings for thunderbird-esr
+desktops=457287e5-a452-438c-bb14-b14d5adb452b
+desktopsrule=3
+wmclass=thunderbird-esr
+wmclassmatch=1
+
+[General]
+count=18
+rules=cbc05c10-df52-4444-ae5a-2af6607602af,67af1b56-c8c8-4ae8-b78d-3c44117099f7,905392ed-ee03-4df6-8e3f-11d6b8375f31,cab3eac4-5e8e-4fd0-948d-14b6e78c2263,399b83a3-0375-4135-ba50-bdebe9964e19,3caab15e-ed84-405c-b9ed-7ae36216c279,3ecadf93-3486-4349-ae9d-e058f8ac7259,b798a69b-c028-408d-a360-fc97c99dcff1,f4d0a4a4-e457-46bc-8aec-3926d467b951,83ceebac-565c-4e89-a4a6-94c6881a1103,fed574e4-f0be-46b4-ab8e-ea8d23f9f6a3,d89efd15-11ff-44c8-9263-602d958bce81,f9a5c2b2-d8a9-4f5b-8ad0-576715503ecf,f1b3804b-e623-4a8d-a46f-42577dbe14f8,2bad87aa-1f2e-45e3-a3d0-655c123eb452,0bf12777-1628-4e83-a188-4bcdcaabcff2,4e6d8d73-2111-4b7a-b5dd-9f5156451c49,9ceb4a02-bab5-44f8-96fd-0265467e1d33
+
+[b798a69b-c028-408d-a360-fc97c99dcff1]
+Description=Settings for postman Postman
+desktops=81280ede-f673-4063-b106-98f5fa925c7e
+desktopsrule=3
+wmclass=postman Postman
+wmclasscomplete=true
+wmclassmatch=1
+
+[cab3eac4-5e8e-4fd0-948d-14b6e78c2263]
+Description=Settings for kate org.kde.kate
+desktops=1b752e99-4bca-4431-a8d7-48dd4b4cef82
+desktopsrule=3
+wmclass=kate org.kde.kate
+wmclasscomplete=true
+wmclassmatch=1
+
+[cbc05c10-df52-4444-ae5a-2af6607602af]
+Description=Settings for konsole org.kde.konsole
+desktops=9042470d-dfd1-4bb1-a5ad-6bd8cae63a59
+desktopsrule=3
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[d89efd15-11ff-44c8-9263-602d958bce81]
+Description=Settings for org.telegram.desktop
+desktops=3accfe27-67fb-4736-a8a7-7d4380d466e2
+desktopsrule=3
+wmclass=org.telegram.desktop
+wmclassmatch=1
+
+[f1b3804b-e623-4a8d-a46f-42577dbe14f8]
+Description=Settings for virt-manager
+desktops=ea312a63-ba30-4a1a-8585-a7cde1ececb7
+desktopsrule=3
+wmclass=virt-manager
+wmclassmatch=1
+
+[f4d0a4a4-e457-46bc-8aec-3926d467b951]
+Description=Settings for vesktop
+desktops=3accfe27-67fb-4736-a8a7-7d4380d466e2
+desktopsrule=3
+wmclass=vesktop
+wmclassmatch=1
+
+[f9a5c2b2-d8a9-4f5b-8ad0-576715503ecf]
+Description=Settings for dolphin org.kde.dolphin
+desktops=bfa53555-0751-4e1b-9ea0-dbbede35026a
+desktopsrule=3
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[fed574e4-f0be-46b4-ab8e-ea8d23f9f6a3]
+Description=Settings for Insomnia
+desktops=81280ede-f673-4063-b106-98f5fa925c7e
+desktopsrule=3
+wmclass=Insomnia
+wmclasscomplete=true
+wmclassmatch=1
