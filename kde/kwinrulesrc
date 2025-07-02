@@ -43,6 +43,13 @@ desktopsrule=3
 wmclass=DBeaver
 wmclassmatch=1
 
+[4bd7ebdf-2870-40c4-a2cb-ec0c2ad6892b]
+Description=Settings for Todoist
+desktops=457287e5-a452-438c-bb14-b14d5adb452b
+desktopsrule=3
+wmclass=Todoist
+wmclassmatch=1
+
 [4e6d8d73-2111-4b7a-b5dd-9f5156451c49]
 Description=Settings for steam
 desktops=72123bc0-2f5f-499d-b083-4d424a2d657d
@@ -74,8 +81,8 @@ wmclass=thunderbird-esr
 wmclassmatch=1
 
 [General]
-count=19
-rules=cbc05c10-df52-4444-ae5a-2af6607602af,f9d4d255-aff9-475a-b600-8a9c26044d82,905392ed-ee03-4df6-8e3f-11d6b8375f31,cab3eac4-5e8e-4fd0-948d-14b6e78c2263,399b83a3-0375-4135-ba50-bdebe9964e19,3caab15e-ed84-405c-b9ed-7ae36216c279,3ecadf93-3486-4349-ae9d-e058f8ac7259,b798a69b-c028-408d-a360-fc97c99dcff1,f4d0a4a4-e457-46bc-8aec-3926d467b951,83ceebac-565c-4e89-a4a6-94c6881a1103,fed574e4-f0be-46b4-ab8e-ea8d23f9f6a3,d89efd15-11ff-44c8-9263-602d958bce81,f9a5c2b2-d8a9-4f5b-8ad0-576715503ecf,29de5400-6b23-4174-a01a-db3e924cf2a8,f1b3804b-e623-4a8d-a46f-42577dbe14f8,2bad87aa-1f2e-45e3-a3d0-655c123eb452,0bf12777-1628-4e83-a188-4bcdcaabcff2,4e6d8d73-2111-4b7a-b5dd-9f5156451c49,9ceb4a02-bab5-44f8-96fd-0265467e1d33
+count=20
+rules=cbc05c10-df52-4444-ae5a-2af6607602af,f9d4d255-aff9-475a-b600-8a9c26044d82,905392ed-ee03-4df6-8e3f-11d6b8375f31,cab3eac4-5e8e-4fd0-948d-14b6e78c2263,399b83a3-0375-4135-ba50-bdebe9964e19,3caab15e-ed84-405c-b9ed-7ae36216c279,3ecadf93-3486-4349-ae9d-e058f8ac7259,b798a69b-c028-408d-a360-fc97c99dcff1,f4d0a4a4-e457-46bc-8aec-3926d467b951,83ceebac-565c-4e89-a4a6-94c6881a1103,fed574e4-f0be-46b4-ab8e-ea8d23f9f6a3,d89efd15-11ff-44c8-9263-602d958bce81,f9a5c2b2-d8a9-4f5b-8ad0-576715503ecf,29de5400-6b23-4174-a01a-db3e924cf2a8,f1b3804b-e623-4a8d-a46f-42577dbe14f8,2bad87aa-1f2e-45e3-a3d0-655c123eb452,0bf12777-1628-4e83-a188-4bcdcaabcff2,4e6d8d73-2111-4b7a-b5dd-9f5156451c49,9ceb4a02-bab5-44f8-96fd-0265467e1d33,4bd7ebdf-2870-40c4-a2cb-ec0c2ad6892b
 
 [b798a69b-c028-408d-a360-fc97c99dcff1]
 Description=Settings for postman Postman
